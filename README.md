@@ -25,6 +25,7 @@ Putting custom vocabularies into a text file (single vocabulary for each line), 
 
 `python import_adapter.py <input.txt> <output.txt>`
 
+Now use 使用者造詞工具 to import output.txt into your custom vocabularies, and it's done!
 
 ## Example
 ```
