@@ -21,7 +21,7 @@ This script is used to transform a list of custom vocabularies into proper forma
 
 
 ## Usage
-Putting custom vocabularies into a text file (single vocabulary for each line), and then use the script to transfer it by the following command:
+Putting custom vocabularies into a text file (single vocabulary for each line), and then use the script to transform it by the following command:
 
 `python import_adapter.py <input.txt> <output.txt>`
 
