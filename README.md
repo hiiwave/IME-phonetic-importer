@@ -45,4 +45,8 @@ python import_adapter.py test_input.txt test_output.txt`
 ```
 
 ## Contributing
-Any thougt or feedback is welcome :)
+Any thought or feedback is welcome.
+
+
+## LICENSE
+[MIT](./LICENSE)
